@@ -1,2 +1,4 @@
-# DATA_601_Python_Projects
-This repository contains two projects: Personalized Random Name Generator Python project and Web Scraping python project of Arxiv website and analyzing the extracted data
+# Python Projects
+This repository contains two projects: <br>
+-> Personalized Random Name Generator Python project and <br>
+-> Web Scraping Python project of Arxiv website and analyzing the extracted data
