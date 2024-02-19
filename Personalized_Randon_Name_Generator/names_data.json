@@ -1,0 +1,420 @@
+{
+  "Florida": {
+    "Male": [
+      "Noah",
+      "Liam",
+      "Lucas",
+      "Elijah",
+      "Oliver",
+      "Benjamin",
+      "Ethan",
+      "Alexander",
+      "Alexander",
+      "James"
+    ],
+    "Female": [
+      "Olivia",
+      "Emma",
+      "Isabella",
+      "Mia",
+      "Ava",
+      "Amelia",
+      "Susan",
+      "Charlotte",
+      "Luna",
+      "Gianna"
+    ],
+    "Last": [
+      "Smith",
+      "Williams",
+      "Johnson",
+      "Rodriguez",
+      "Brown",
+      "Jones",
+      "Gonzalez",
+      "Davis",
+      "Miller",
+      "Perez"
+    ]
+  },
+  "New York": {
+    "Male": [
+      "Liam",
+      "Noah",
+      "Lucas",
+      "Joseph",
+      "Jacob",
+      "James",
+      "Benjamin",
+      "Michael",
+      "Ethan",
+      "Oliver"
+    ],
+    "Female": [
+    	"Olivia",
+    	"Emma",
+    	"Sophia",
+    	"Mia",
+    	"Amelia",
+    	"Ava",
+    	"Charlotte",
+    	"Isabella",
+    	"Gianna",
+    	"Leah"
+    ],
+    "Last": [
+      "Williams",
+      "Johnson",
+      "Rodriguez",
+      "Jones",
+      "Miller",
+      "Lee",
+      "Rivera",
+      "Davis",
+      "Gonzalez",
+      "Martinez"
+    ]
+  },
+  "Georgia": {
+    "Male": [
+      "Noah",
+	  "Liam",
+	  "William",
+	  "Elijah",
+	  "James",
+	  "Oliver",
+	  "Asher",
+	  "John",
+	  "Lucas",
+	  "Henry"
+    ],
+    "Female": [
+      "Olivia",
+	  "Ava",
+	  "Amelia",
+	  "Emma",
+	  "Charlotte",
+	  "Isabella",
+	  "Sophia",
+	  "Harper",
+	  "Evelyn",
+	  "Mia"
+    ],
+    "Last": [
+      "Williams",
+      "Brown",
+      "Smith",
+      "Davis",
+      "Jones",
+      "Johnson",
+      "Wilson",
+      "Jackson",
+      "White",
+      "Walker"
+    ]
+  },
+  "Maine": {
+    "Male": [
+       "Oliver",
+       "William",
+       "Owen",
+       "Henry",
+       "Jack",
+       "Jackson",
+       "Liam",
+       "Lucas",
+       "Theodore",
+       "Colton"
+    ],
+    "Female": [
+      "Charlotte",
+      "Olivia",
+      "Amelia",
+      "Emma",
+      "Harper",
+      "Sophia",
+      "Ava",
+      "Evelyn",
+      "Nora",
+      "Willow"
+    ],
+    "Last": [
+      "Smith",
+      "Brown",
+      "Johnson",
+      "Davis",
+      "Clark",
+      "Martin",
+      "White",
+      "Williams",
+      "Pelletier",
+      "Allen"
+    ]
+  },
+  "Maryland": {
+    "Male": [
+      "Liam",
+      "Noah",
+      "James",
+      "Lucas",
+      "Oliver",
+      "William",
+      "Michael",
+      "Benjamin",
+      "Ethan",
+      "Dylan"
+    ],
+    "Female": [
+      "Olivia",
+      "Charlotte",
+      "Ava",
+      "Emma",
+      "Sophia",
+      "Mia",
+      "Amelia",
+      "Isabella",
+      "Evelyn",
+      "Madison"
+    ],
+    "Last": [
+      "Smith",
+      "Johnson",
+      "Brown",
+      "Jones",
+      "Williams",
+      "Davis",
+      "Miller",
+      "Thomas",
+      "Jackson",
+      "Taylor"
+    ]
+  },
+  "Massachusetts": {
+    "Male": [
+      "Noah",
+      "Liam",
+      "Henry",
+      "Jack",
+      "Benjamin",
+      "James",
+      "Oliver",
+      "Theodore",
+      "William",
+      "Lucas"
+	],
+    "Female": [
+      "Olivia",
+      "Charlotte",
+      "Emma",
+      "Sophia",
+      "Amelia",
+      "Mia",
+      "Isabella",
+      "Ava",
+      "Evelyn",
+      "Ella"
+    ],
+    "Last": [
+      "Sullivan",
+      "Johnson",
+      "Brown",
+      "Murphy",
+      "Williams",
+      "Anderson",
+      "White",
+      "Martin",
+      "Davis",
+      "McCarthy"
+    ]
+  },
+  "New Jersey": {
+    "Male": [
+      "Liam",
+	  "Noah",
+	  "Lucas",
+	  "Joseph",
+	  "Michael",
+	  "Benjamin",
+	  "James",
+	  "Jacob",
+	  "Anthony",
+	  "Ethan"
+    ],
+    "Female": [
+     "Olivia",
+	 "Emma",
+	 "Mia",
+	 "Ava",
+	 "Sophia",
+	 "Isabella",
+	 "Charlotte",
+	 "Amelia",
+	 "Gianna",
+	 "Leah"
+    ],
+    "Last": [
+      "Patel",
+      "Williams",
+      "Brown",
+      "Johnson",
+      "Rodriguez",
+      "Lee",
+      "Jones",
+      "Miller",
+      "Davis",
+      "Rivera"
+    ]
+  },
+  "North Carolina": {
+    "Male": [
+      "Liam",
+	  "Noah",
+	  "William",
+	  "James",
+	  "Oliver",
+	  "Henry",
+	  "Elijah",
+	  "Jackson",
+	  "Lucas",
+	  "Levi"
+    ],
+    "Female": [
+      "Olivia",
+	  "Ava",
+	  "Emma",
+	  "Charlotte",
+	  "Amelia",
+	  "Sophia",
+	  "Harper",
+	  "Isabella",
+	  "Evelyn",
+	  "Elizabeth"
+    ],
+    "Last": [
+      "Smith",
+      "Williams",
+      "Johnson",
+      "Jones",
+      "Brown",
+      "Davis",
+      "Moore",
+      "Miller",
+      "Taylor",
+      "Wilson"
+    ]
+  },
+  "Pennsylvania": {
+    "Male": [
+       "Noah",
+       "Liam",
+       "Benjamin",
+       "Oliver",
+       "Owen",
+       "James",
+       "Logan",
+       "Henry",
+       "Lucas",
+       "Mason"
+    ],
+    "Female": [
+       "Olivia",
+       "Charlotte",
+       "Emma",
+       "Ava",
+       "Sophia",
+       "Amelia",
+       "Harper",
+       "Isabella",
+       "Evelyn",
+       "Mia"
+    ],
+    "Last": [
+      "Brown",
+      "Williams",
+      "Johnson",
+      "Jones",
+      "Davis",
+      "Wilson",
+      "Snyder",
+      "Anderson",
+      "Taylor",
+      "Clark"
+    ]
+  },
+  "South Carolina": {
+    "Male": [
+      "William",
+	  "James",
+	  "Liam",
+	  "Noah",
+	  "Elijah",
+	  "Oliver",
+	  "Samuel",
+	  "John",
+	  "Henry",
+	  "Mason"
+    ],
+    "Female": [
+      "Olivia",
+	  "Ava",
+	  "Charlotte",
+	  "Emma",
+	  "Amelia",
+	  "Harper",
+	  "Isabella",
+	  "Evelyn",
+	  "Elizabeth",
+	  "Mia"
+    ],
+    "Last": [
+      "Smith",
+      "Williams",
+      "Brown",
+      "Johnson",
+      "Davis",
+      "Jones",
+      "Wilson",
+      "Jackson",
+      "Miller",
+      "Taylor"
+    ]
+  },
+  "Virginia": {
+    "Male": [
+      "Liam",
+      "Noah",
+      "James",
+      "William",
+      "Oliver",
+      "Elijah",
+      "Henry",
+      "Lucas",
+      "Benjamin",
+      "Jackson"
+    ],
+    "Female": [
+      "Charlotte",
+      "Olivia",
+      "Emma",
+      "Ava",
+      "Sophia",
+      "Amelia",
+      "Isabella",
+      "Elizabeth",
+      "Evelyn",
+      "Mia"
+    ],
+    "Last": [
+      "Johnson",
+      "Jones",
+      "Williams",
+      "Brown",
+      "Davis",
+      "Miller",
+      "Taylor",
+      "Smith",
+      "Harris",
+      "Wilson"
+    ]
+  }
+}
